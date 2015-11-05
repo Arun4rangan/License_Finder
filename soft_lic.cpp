@@ -109,6 +109,9 @@ int main()
 		if(strncmp(htm_files,".gitattributes",strlen(".gitattributes")) == 0){
 			continue;
 		}
+		if(strncmp(htm_files,"README.md",strlen("README.md")) == 0){
+			continue;
+		}
 		if(strncmp(htm_files,"filenames.txt", strlen("filenames.txt")) == 0){
 			continue;
 		}
