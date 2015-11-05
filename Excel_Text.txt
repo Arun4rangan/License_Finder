@@ -1,0 +1,5 @@
+P10D-QA-AA	aali	Windows Internet Explorer 10	ThisLicenseHaveBeenReplacedToPreventLegalIssues
+P10D-QA-AB	abaltazar	Microsoft Office Outlook 2003	ThisLicenseHaveBeenReplacedToPreventLegalIssues
+P10D-QA-AB	abaltazar	Microsoft Office Professional Edition 2003	ThisLicenseHaveBeenReplacedToPreventLegalIssues
+P10D-QA-AB	abaltazar	Windows Internet Explorer 8	ThisLicenseHaveBeenReplacedToPreventLegalIssues
+P55D-AD-AM	arideout	Microsoft Office Home and Business 2010	ThisLicenseHaveBeenReplacedToPreventLegalIssues

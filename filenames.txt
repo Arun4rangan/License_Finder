@@ -1,0 +1,15 @@
+.gitattributes
+.gitignore
+aali.htm
+abaltazar.htm
+arideout.htm
+excelrefresh.vbs
+Excel_Refreshed.xlsm
+Excel_Text.txt
+filenames.txt
+filenames_batch.bat
+gmon.out
+htm files
+Setup.bat
+soft_lic.cpp
+soft_lic.exe
