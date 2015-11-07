@@ -4,7 +4,7 @@ Htm License Finder
 This program uses : NEWT Professional Network Inventory
 Link:  http://www.komodolabs.com/network-inventory/
 
-It provides the htm files required to decode the lisence key.
+It provides the htm files required to decode the license key.
 
 To work this program, you must clone this folder and move the files from htm files folders to the main folder. 
 Then start the setup.bat, to start the program. It will run through some batch codes, after few seconds, you 
